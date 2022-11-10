@@ -1,3 +1,3 @@
 # senai-versoes-colaboracoes
 
-readmi de exemplo
+readme de exemplo
